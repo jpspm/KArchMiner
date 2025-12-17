@@ -1,6 +1,6 @@
 # KArchMiner: A Dataset of Architectural Patterns in Kotlin Open Source Projects
 
-The dataset is avaliable [here](https://drive.google.com/file/d/19K5jzvNNWRCuH9olf2jDDTHVByRLYjOp/view?usp=sharing)
+The dataset is avaliable [here](https://drive.google.com/file/d/1d0EKv7Lb9I0LbFYL7slT4mWW3A0aTNXe/view?usp=sharing)
 ## ✨ Overview
 
 KArchMiner is a curated and extensible dataset of open-source Kotlin repositories, automatically analyzed to infer their architectural patterns. The dataset was constructed by mining GitHub repositories associated with **Kotlin Multiplatform** and **Jetpack Compose** development.
